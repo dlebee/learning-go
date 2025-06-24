@@ -1,4 +1,4 @@
-# Learning repostiory
+# Learning repository
 
 Just a repo to record learning go lang for fun.
 
