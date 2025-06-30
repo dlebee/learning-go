@@ -5,4 +5,7 @@ use (
 	./02-variables
 	./03-type-inference
 	./04-loops-basic
+	./05-arrays
+	./06-slices
+	./07-functions
 )
