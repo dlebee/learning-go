@@ -10,4 +10,7 @@ use (
 	./07-functions
 	./08-package-structure
 	./09-struct
+	./10-interfaces
+	./11-error-handling
+	./12-specific-error-handling
 )
