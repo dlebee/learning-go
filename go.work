@@ -8,4 +8,5 @@ use (
 	./05-arrays
 	./06-slices
 	./07-functions
+	./08-package-structure
 )
