@@ -13,4 +13,5 @@ use (
 	./10-interfaces
 	./11-error-handling
 	./12-specific-error-handling
+	./13-composition
 )
