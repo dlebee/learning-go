@@ -14,4 +14,7 @@ use (
 	./11-error-handling
 	./12-specific-error-handling
 	./13-composition
+	./14-go-coroutine
+	./15-go-routine-with-context
+	./16-go-routine-wait-group
 )
