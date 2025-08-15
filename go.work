@@ -17,4 +17,5 @@ use (
 	./14-go-coroutine
 	./15-go-routine-with-context
 	./16-go-routine-wait-group
+	./17-json
 )
